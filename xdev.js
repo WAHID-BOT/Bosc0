@@ -68,9 +68,9 @@ let bancht = JSON.parse(fs.readFileSync('./database/banchat.json'))
 banChats = false
 offline = false
 targetpc = '0'
-ownerNumber@s.whatsapp.net","6287817533783@s.whatsapp.net","6285283427860@s.whatsapp.net","6282290559350@s.whatsapp.net","628983583288@s.whatsapp.net","628886234378@s.whatsapp.net"]
+ownerNumber = ["919746965745@s.whatsapp.net","6287817533783@s.whatsapp.net","6285283427860@s.whatsapp.net","6282290559350@s.whatsapp.net","628983583288@s.whatsapp.net","628886234378@s.whatsapp.net"]
 fake = '𝑪𝑹𝑬𝑨𝑻𝑶𝑹 𝑩𝑶𝑻\n𝑿 - 𝑻𝒌𝒌𝒛 𝑻𝒆𝒂𝒎'
-fake1 = '𝑻𝑲𝑲𝒁𝑲𝒁 𝑮𝑨𝑵𝒁'
+fake1 = '𝑻𝑲𝒁 𝑮𝑨𝑵𝒁'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
