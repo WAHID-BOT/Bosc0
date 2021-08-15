@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://a.uguu.se/rzuxHjbG.jpg" alt="X - Dev Team" width="300" />
+<img src="https://i.imgur.com/kEgkWBe.jpeg" alt="Wahid-Tkz" width="300" />
 
 # Jangan lupa kasih stars & follow :)
 
@@ -8,10 +8,10 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/xdevteam404"><img title="Author" src="https://img.shields.io/badge/Author-xdev team-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/WAHID-BOT"><img title="Author" src="https://img.shields.io/badge/AuthorWahid-Tkz.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/62895619083555">SC FREE API KOK GAN >//< </a>
+  <a href="https://wa.me/919746965745">SC FREE API KOK GAN >//< </a>
 </h4>
 </p>
 
@@ -24,14 +24,14 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/xdevteam404/xdev-self
+> git clone https://github.com/WAHID-BOT/Bosc0
 > cd xdev-self
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r xdev-self-main $HOME
-> cd xdev-self-main
+> cp -r Bosc0-main $HOME
+> cd Bosc0-main
 > npm i
 > node run.js
 ```
